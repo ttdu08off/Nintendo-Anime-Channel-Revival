@@ -6,3 +6,4 @@ Pour vous connecter, suivez le tuto d'installation !
 Hello,
 A private server for Nintendo Anime Channel is now available!
 To connect, follow the installation tutorial!
+https://github.com/ttdu08off/Nintendo-Anime-Channel-Revival/blob/main/Tutoriel
